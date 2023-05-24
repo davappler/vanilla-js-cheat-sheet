@@ -1,4 +1,4 @@
-# DOM manipulation cheat sheet using vanilla JS
+# DOM manipulation cheat sheet for vanilla JS
 
 
 
